@@ -1,0 +1,4 @@
+# Biến môi trường & khóa bí mật — KHÔNG commit
+.env
+.env.*
+!.env.example
